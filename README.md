@@ -154,7 +154,11 @@ The dashboard includes:
 - Regional Revenue vs Profit
 - Delivery Time vs Customer Satisfaction
 - Product Return Rates
+### Dashboard Preview
 
+![BrightCart Dashboard - Top](brightcart-dashboard-top.png)
+
+![BrightCart Dashboard - Bottom](brightcart-dashboard-bottom.png)
 ---
 
 ## Tools and Techniques
